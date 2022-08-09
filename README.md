@@ -9,4 +9,4 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
 </p>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=io-o)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=io-o&theme=dark)]()

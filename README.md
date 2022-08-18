@@ -1,14 +1,21 @@
 ## Hi, I'm Andrew Q 👋
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=io-o&theme=dark)]()
-
-
 ### Languages and Tools:
 <p align="left">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="30">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
+  <img src="https://img.shields.io/badge/-Vue-red" alt="Vue">
+  <img src="https://img.shields.io/badge/-React-red" alt="React">
+  <img src="https://img.shields.io/badge/-Typescript-red" alt="Typescript">
+  <img src="https://img.shields.io/badge/-Git-red" alt="Git">
+  <img src="https://img.shields.io/badge/-Qiankun-red" alt="Qiankun">
+  <img src="https://img.shields.io/badge/-Webpack-red" alt="Webpack">
+  <img src="https://img.shields.io/badge/-Vite-red" alt="Vite">
+  
+  <img src="https://img.shields.io/badge/-Node-orange" alt="Node">
+  <img src="https://img.shields.io/badge/-Java-orange" alt="Java">
+  <img src="https://img.shields.io/badge/-Nginx-orange" alt="Nginx">
+  <img src="https://img.shields.io/badge/-Mysql-orange" alt="Mysql">
 </p>
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=io-o&theme=dark)]()
+

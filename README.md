@@ -4,8 +4,8 @@
 ### Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/-Vue-red" alt="Vue">
-  <img src="https://img.shields.io/badge/-React-red" alt="React">
   <img src="https://img.shields.io/badge/-Typescript-red" alt="Typescript">
+  <img src="https://img.shields.io/badge/-React-red" alt="React">
   <img src="https://img.shields.io/badge/-Git-red" alt="Git">
   <img src="https://img.shields.io/badge/-Qiankun-red" alt="Qiankun">
   <img src="https://img.shields.io/badge/-Webpack-red" alt="Webpack">

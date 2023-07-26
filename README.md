@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/-Vite-red" alt="Vite">
   
   <img src="https://img.shields.io/badge/-Node-orange" alt="Node">
-  <img src="https://img.shields.io/badge/-Java-orange" alt="Java">
   <img src="https://img.shields.io/badge/-Nginx-orange" alt="Nginx">
   <img src="https://img.shields.io/badge/-Mysql-orange" alt="Mysql">
 </p>

@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/-Vite-red" alt="Vite">
   
   <img src="https://img.shields.io/badge/-Node-orange" alt="Node">
-  <img src="https://img.shields.io/badge/-Nginx-orange" alt="Nginx">
-  <img src="https://img.shields.io/badge/-Mysql-orange" alt="Mysql">
+<!--   <img src="https://img.shields.io/badge/-Nginx-orange" alt="Nginx">
+  <img src="https://img.shields.io/badge/-Mysql-orange" alt="Mysql"> -->
 </p>
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=io-o&theme=dark)]()
